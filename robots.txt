@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://syair-minyak.github.io/sitemap.xml
